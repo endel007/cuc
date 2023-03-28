@@ -1,0 +1,103 @@
+---
+title: "UAZE"
+author: "Enrique J. Delahoz-Dominguez"
+date: 'Uniersidad de la Costa'
+output:
+  slidy_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## UAZE
+
+Sistema de Apoyo para la toma de decisiones en ambientes educativo
+
+## UAZE apoya la toma de decisiones en diferentes niveles
+
+- Estratégico
+
+    - ¿Qué estudiar?
+    - ¿Dónde estudiar?
+    - ¿Qué modalidad?
+    
+- Táctico
+
+    + ¿Qué cursos matricular?
+    + ¿Cuántos cursos matricular?
+    + ¿Cuándo pausar el proceso de matricula?
+
+- Operativo
+
+    + Recomendación de recursos de aprendizaje por curso
+    + FAQ's dinámico.
+    
+## UAZE: Gestión universitaria
+
+- Predicción temprana del abandono estudiantil
+- Definición de rutas de aprendizaje sugeridas
+- Segmentación de estudiantes
+- Acompañamiento
+
+## Datos
+
+- BB.DD Universitat Oberta de Catalunya.
+- Base de datos Pruebas SABER 3, 5, 7, 9, 11 y PRO.
+- BB.DD Moodle de los profesores participantes.
+
+
+## Ánalisis de eficiencia en procesos educativos
+
+- Articular modelos de Análisis Envolvente de Datos con técnicas de Machine Learning.
+
+    + SVM + DEA (Juan Aparicio - UMH)
+    + DT  + DEA (Juan Aparicio - UMH)
+    + *KNN + DEA*
+    + *Boosting + DEA*
+    
+## Aplicaciones DEA
+
+- Valor agregado: Efficient Value Added (EVA)
+
+    + De La Hoz, E., Zuluaga, R., & Mendoza, A. (2021). Assessing and classification of academic efficiency in engineering teaching programs. ERIES J. 14, 41–52 (2021).
+    
+## Aplicaciones DEA
+
+- Ecuaciones estructurales + DEA
+
+    + Zuluaga, R., De La Hoz, E., & Camelo-Guarín, A. (2022). Academic efficiency of engineering university degrees and its driving factors. A PLS-DEA approach. Journal of International Studies, 107-121.
+    + Delahoz-Dominguez, E., Zuluaga-Ortiz, R., Camelo-Guarín, A., & Suarez-Sánchez, M. (2022). Performance evaluation of mechanical engineering degrees using partial minimum squares and data envelopment analysis. International Journal of Innovation and Learning, 32(4), 397-413.
+    
+- Aplicaciones alternativas
+
+    + Delahoz-Dominguez, E. J., Fontalvo-Herrera, T. J., & Zuluaga-Ortiz, R. A. (2022). PARTIAL LEAST SQUARES-PATH MODELLING FOR EFFICIENCY ASSESSMENT IN THE COLOMBIAN PROFESSIONAL FOOTBALL LEAGUE. Pesquisa Operacional, 42.
+    + Escorcia, A., Ramos-Ruiz, J., Zuluaga-Ortiz, R., & Delahoz-Domínguez, E. (2022). Determining factors for the creation of innovation-based ventures. Journal of Innovation and Entrepreneurship, 11(1), 51.
+
+
+## Aplicaciones DEA
+
+- Six Sigma + DEA
+
+    + Delahoz-Domínguez, E., Zuluaga-Ortiz, R., Periñan-Luna, A., & Mendoza-Brand, S. (2022). Un enfoque de Seis Sigma para evaluar la calidad de la educación superior en Colombia. Revista de Métodos Cuantitativos para la Economía y la Empresa, 386-407.
+    
+    + A Six sigma and DEA approach for learning outcomes assessment at industrial engineering programs. Journal:	Int. J. of Six Sigma and Competitive Advantage (Upcoming article)
+    
+## Miscelaneous
+
+    + BB.DD Desmovilización de grupos armados en Colombia: Machine Learning application in the ex-combatant demobilization process on the Colombian armed conflict. Journal of Intelligent Data Analysis (Upcoming article)
+    + BB.DD Robos y homicicios en Colombia.
+    + BB.DD Quejas del sector salud en Colombia 2018-2022
+    + BB.DD Quejas del sector financiero en Colombia 2018-2022
+    
+## Red de investigación
+
+- Rohemi Zuluaga    - Universidad del Sinú (Colombia)
+- Alicia Camelo     - Escuela Militar de Cadetes (Colombia)
+- Tomás Fontalvo    - Universidad de Cartagena (Colombia)
+- Felix Ballesteros - Université Laval (Canadá)
+- Martin Flegl      - Tecnológico de Monterrey (México)
+- Rafel Berlanga    - Universitat Jaume I (España)
+- Raquel Hijón      - Universidad Rey Juan Carlos (España)
+- Santí Caballé     - Universidad Oberta de Catalunya (España)
+- Adel Mendoza      - Universidad del Atlántico (Colombia)
